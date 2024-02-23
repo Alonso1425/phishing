@@ -1,0 +1,20 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.link-sesion {
+	color: #ff7d41;
+	border-bottom: 2px solid currentColor;
+}
+.card-title{
+	font-size: 30px;
+	font-weight: 300;
+	display: block;
+}
+p a{
+
+	font-size: 12px;
+    color: #5b5f65;
+}
